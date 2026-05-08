@@ -71,12 +71,6 @@ But every mistake taught me something.
 
 ---
 
-## 📸 Proof
-
-Code runs. Outputs are clean. Brain is tired but happy.
-
----
-
 ## 🔗 Connect With My Journey
 
 10 problems every day. Slowly. Consistently.
