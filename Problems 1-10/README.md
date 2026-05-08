@@ -50,12 +50,6 @@ And sometimes that's the whole battle.
 
 ---
 
-## 📸 Proof
-
-Code runs. Outputs are clean. Screenshots are in the repo.
-
----
-
 ## 🔗 Connect With My Journey
 
 I'm solving 10 problems every day. Slowly. Consistently.
