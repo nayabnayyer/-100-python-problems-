@@ -81,8 +81,8 @@ Code runs. Outputs are clean. Brain is tired but happy.
 
 10 problems every day. Slowly. Consistently.
 
-- **Follow on LinkedIn:** linkedin.com/in/nayab-nayyer
-- **GitHub Profile:** github.com/nayabnayyer
+- **Follow on LinkedIn:** [linkedin.com/in/nayab-nayyer](https://linkedin.com/in/nayab-nayyer)
+- **GitHub Profile:** [github.com/nayabnayyer](https://github.com/nayabnayyer)
 
 ---
 
