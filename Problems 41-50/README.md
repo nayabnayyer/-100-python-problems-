@@ -100,7 +100,7 @@ Still here. Still coding. Still growing.
 ## 🔗 Connect With My Journey
 
 10 problems every day.
-Some days, 10 problems. Some days, 4 problems + 4 understood.
+Some days, 10 problems. Some days, 4 problems + 6 understood.
 But always moving forward.
 
 - **LinkedIn:** [linkedin.com/in/nayab-nayyer](https://linkedin.com/in/nayab-nayyer)
