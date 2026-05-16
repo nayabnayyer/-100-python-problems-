@@ -99,7 +99,7 @@ Still here. Still coding. Still growing.
 
 ## 🔗 Connect With My Journey
 
- 10 problems every day.
+10 problems every day.
 Some days, 10 problems. Some days, 4 problems + 4 understood.
 But always moving forward.
 
