@@ -97,13 +97,11 @@ Still here. Still coding. Still growing.
 
 ---
 
-## 📸 Proof
-
-Screenshots of code + terminal output are in `/images/day5/`
-
----
-
 ## 🔗 Connect With My Journey
+
+ 10 problems every day.
+Some days, 10 problems. Some days, 4 problems + 4 understood.
+But always moving forward.
 
 - **LinkedIn:** [linkedin.com/in/nayab-nayyer](https://linkedin.com/in/nayab-nayyer)
 - **GitHub:** [github.com/nayabnayyer](https://github.com/nayabnayyer)
